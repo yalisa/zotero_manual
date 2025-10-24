@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <p align="center">
-  <img alt="Zotero guide" src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/zotero-book-cover.png" width="240" />
+  <img alt="Zotero guide" src="https://raw.githubusercontent.com/yalisa/zotero_manual/main/assets/zotero-book-cover.png" width="240" />
 </p>
 
 # Методическое пособие по использованию Zotero  
