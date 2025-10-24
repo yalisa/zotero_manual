@@ -9,7 +9,13 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)  
 ![Format: DOCX / PDF / MD](https://img.shields.io/badge/Formats-DOCX%20%7C%20PDF%20%7C%20MD-blue)
-
+![Formats](https://img.shields.io/badge/Formats-DOCX%20%7C%20PDF%20%7C%20MD-blue.svg)
+![Language](https://img.shields.io/badge/Language-Russian-blue.svg)
+![Education](https://img.shields.io/badge/Project-Type%3A%20Educational-orange.svg)
+![Version](https://img.shields.io/badge/Version-1.0-lightblue.svg)
+![Updated](https://img.shields.io/badge/Updated-October%202025-brightgreen.svg)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-success.svg)
+![Topic: Zotero](https://img.shields.io/badge/Topic-Zotero-blue.svg)
 ---
 
 ## Описание
